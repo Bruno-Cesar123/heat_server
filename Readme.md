@@ -43,7 +43,7 @@ $ yarn prisma migrate dev
 # Execute a aplicação em modo de desenvolvimento
 $ $ npm run dev ou yarn dev
 
-# O servidor inciará na porta:3000 - acesse <http://localhost:4000>
+# O servidor inciará na porta:4000 - acesse <http://localhost:4000>
 ```
 
 ## 📄 Licença
