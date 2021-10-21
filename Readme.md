@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Bruno-Cesar123/ignews.git
+$ git clone https://github.com/Bruno-Cesar123/heat_server.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd server
@@ -36,9 +36,6 @@ $ cd server
 
 # Instale as dependências
 $ npm install ou yarn
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev ou yarn dev
 
 # Execute as migrations do Prisma
 $ yarn prisma migrate dev
